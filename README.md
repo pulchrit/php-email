@@ -1,7 +1,7 @@
 # php-email
 Simple php email sender using Google SMTP server and the PHPMailer package.
 
-(This doesn't use composer. The direction call for downloading the zip from PHPMailer github repo.)
+(This doesn't use composer. The directions call for downloading the zip from PHPMailer github repo.)
 
 This is a non-working example for refrence only.
 
